@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ab503044120.ndktemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ab503044120.ndktemplate.MyBundle
 
 class MyApplicationService {
 
